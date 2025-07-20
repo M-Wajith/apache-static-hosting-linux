@@ -16,6 +16,22 @@ This project demonstrates how to deploy a static website using Apache2 on a Linu
 
 ```
 apache-static-hosting-linux/
+├── exported_site/
+│   ├── 404.html
+│   ├── favicon.ico
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── index.html
+│   ├── index.txt
+│   ├── next.svg
+│   ├── vercel.svg
+│   ├── window.svg
+│   └── _next/
+│       ├── QJmh16SGdWt6jjLsfHzMB/
+│       └── static/
+│           ├── chunks/
+│           ├── css/
+│           └── QJmh16SGdWt6jjLsfHzMB/
 ├── deployment_steps.md
 ├── apache_config_notes.md
 ├── README.md
