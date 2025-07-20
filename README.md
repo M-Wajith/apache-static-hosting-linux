@@ -6,7 +6,7 @@ This project demonstrates how to deploy a static website using Apache2 on a Linu
 
 ## 🔧 Technologies Used
 
-* Oracle Cloud Free Tier (Linux VM)
+* Ubuntu (Linux VM)
 * Apache2 Web Server
 * Static Site (Built with Next.js)
 
