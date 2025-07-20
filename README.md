@@ -74,4 +74,4 @@ Visit the deployed site at:
 http://<VM-IP>
 ```
 
-Use your Oracle Cloud VM's public IP address.
+Use VM's IP address.
